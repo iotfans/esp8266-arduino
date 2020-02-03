@@ -1,0 +1,8 @@
+# add by Liguo.Su
+
+
+# untrack folder
+# /myGitBook/*
+
+# untrack the auto-deploy bash script
+# *.sh

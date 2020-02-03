@@ -52,6 +52,7 @@ fi
 # 生成_book文件
 cd ../gitbook-repo/esp8266-arduino-gitbook/
 gitbook init
+gitbook install
 gitbook build
 cd _book
 cp -rf ./* ../../../esp8266-arduino/

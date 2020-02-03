@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "",
+  "builtInLibrariesFolders": "D:\\arduino-1.8.10\\libraries",
+  "customBuildProperties": "build.path=d:\\arduino-1.8.10\\sketch_WorkSpace\\ESP8266WiFiGeneric\\build,build.warn_data_percentage=75,runtime.tools.xtensa-lx106-elf-gcc.path=C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\2.5.0-4-b40a506,runtime.tools.xtensa-lx106-elf-gcc-2.5.0-4-b40a506.path=C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\xtensa-lx106-elf-gcc\\2.5.0-4-b40a506,runtime.tools.mklittlefs.path=C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mklittlefs\\2.5.0-4-69bd9e6,runtime.tools.mklittlefs-2.5.0-4-69bd9e6.path=C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mklittlefs\\2.5.0-4-69bd9e6,runtime.tools.python3.path=C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python3\\3.7.2-post1,runtime.tools.python3-3.7.2-post1.path=C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\python3\\3.7.2-post1,runtime.tools.mkspiffs.path=C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\2.5.0-4-b40a506,runtime.tools.mkspiffs-2.5.0-4-b40a506.path=C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\mkspiffs\\2.5.0-4-b40a506",
+  "fqbn": "esp8266:esp8266:nodemcuv2:xtal=80,vt=flash,exception=legacy,ssl=all,eesz=4M2M,led=2,ip=lm2f,dbg=Disabled,lvl=None____,wipe=none,baud=115200",
+  "hardwareFolders": "D:\\arduino-1.8.10\\hardware,C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "D:\\arduino-1.8.10\\sketch_WorkSpace\\libraries",
+  "runtime.ide.version": "10810",
+  "sketchLocation": "d:\\arduino-1.8.10\\sketch_WorkSpace\\ESP8266WiFiGeneric\\ESP8266WiFiGeneric.ino",
+  "toolsFolders": "D:\\arduino-1.8.10\\tools-builder,D:\\arduino-1.8.10\\hardware\\tools\\avr,C:\\Users\\codemao.su\\AppData\\Local\\Arduino15\\packages"
+}

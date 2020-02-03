@@ -1,0 +1,75 @@
+{
+    "title": "ESP8266-Arduino开发笔记",
+    "description": "好记性不如G笔记-测试网站配置",
+    "author": "Liguo Su",
+    "output.name": "site",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "首页": "https://iotfans.github.io/esp8266-arduino"
+        }
+    },
+    "plugins": [
+        "code",
+        "popup",
+        "-search",
+        "search-pro",
+        "github",
+        "splitter",
+        "tbfed-pagefooter",
+        "donate",
+        "-sharing",
+        "sharing-plus",
+        "prism",
+        "-highlight",
+        "todo",
+        "styles-less",
+        "toggle-chapters",
+        "multipart",
+        "ancre-navigation"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/iotfans"
+        },
+        "code": {
+            "copyButtons": true
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © IoTfans 2019",
+            "modify_label": "本书发布时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "donate": {
+            "wechat": "https://raw.githubusercontent.com/iotfans/ImageBed/master/img-esp8266/wxpay.jpg",
+            "alipay": "https://raw.githubusercontent.com/iotfans/ImageBed/master/img-esp8266/alipay.jpg",
+            "title": "求三连，打赏",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "qq": true,
+            "all": [               
+                "twitter",
+                "douban",
+                "google",
+                "qzone",
+                "linkedin",
+                "wechat"
+            ]
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-solarizedlight.css"
+            ],
+            "lang": {
+                "flow": "c"
+            }
+        }
+    }
+}

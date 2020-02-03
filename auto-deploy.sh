@@ -80,6 +80,7 @@ cd .deploy_git/
 git checkout gh-pages
 git add -A
 git commit -m $COMMIT
+git push --delete origin gh-pages
 git push -f origin gh-pages
 
 echo 
